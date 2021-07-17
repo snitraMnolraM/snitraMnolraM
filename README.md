@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Readme do Github](https://user-images.githubusercontent.com/80369150/114968576-08120080-9e4d-11eb-9a90-0b794990cf9a.png)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snitraMnolraM)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snitraMnolraM)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snitraMnolraM&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/snitraMnolraM)  
-
+<table>
+  <td align="center">
+    <div>
+    <img width="700"  src= "https://github.com/snitraMnolraM/HTML_CSS/blob/main/assinatura2.png">
+    <a href="https://github.com/snitraMnolraM">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snitraMnolraM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snitraMnolraM&layout=compact&langs_count=7&theme=dark"/>
+    <img width="700"  src= "https://metrics.lecoq.io/snitraMnolraM">
+      </div>
+  </td>
+</table>
 ![Profile views](https://gpvc.arturio.dev/snitraMnolraM)  
