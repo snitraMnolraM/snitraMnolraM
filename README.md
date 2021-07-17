@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <table>
   <td align="center">
     <div>
-    <img width="700"  src= "https://github.com/snitraMnolraM/HTML_CSS/blob/main/assinatura2.png">
     <a href="https://github.com/snitraMnolraM">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=snitraMnolraM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snitraMnolraM&layout=compact&langs_count=7&theme=dark"/>
