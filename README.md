@@ -25,39 +25,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/marlon-martins-de-aquino-5b3923135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
 
-</div>
-
-```dart
-// tools_I_use organized
-class About extends Me {
-  const myTools = {
-    "ProgramingLanguages" : { "Python", "Javascript", "Typescript" },
-    "OtherLanguages" : { "HTML", "CSS", "React", "Bash", "Bootstrap", "Json", "Markdown"},
-    "Database" : { "PostgreSQL", "Sqlite", "MySQL", "MongoDB" },
-    "Editors" : { "Vscode", "Sublime", "PyCharm" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Jupyter-Notebook", "Docker", "Krita", "Power-BI" },
-    "Frameworks" : { "Django", "Flask"},
-    "cloudcomputing" : { "Heroku", "AWS", "GCP", "Azure" }
-  };
-}
-```  
-  
- 
-</div>
 
 
-<table>
-  <td align="center">
-    <div>
-      <h1>Tools and Technologies</h1>
-      <img src="https://github.com/snitraMnolraM/snitraMnolraM/blob/main/.github/workflows/ferramentas.png"/>
-      
-    
-    
-  </div>
- </td>
-</table>
+
+
 
 
 
